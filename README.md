@@ -18,15 +18,6 @@ Button : If you are deploying from a fork
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
     
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=WEATHER_APPID=weatherApiid
-SESSION=HOME
-PREFIX=
-CHAT_BOT_URL=http://api.brainshop.ai/get?bid=164844&key=Nn5cS4BVQxRPOT1b&uid=[uid]&msg=[msg]
-CRON=null
-TENOR_API_KEY=6HQMVSKUUKSD
-MODS=
-MONGO_URI=mongodb+srv://zhongli:order@cluster0.uk0xd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-GOOGLE_API_KEY=AIzaSyAURrEzFtXkP9i2Fsk4jiuuAzolyfR0Dg4)
 
 </div><br/>
 <br/>
