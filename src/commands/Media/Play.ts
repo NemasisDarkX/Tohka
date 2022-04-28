@@ -3,7 +3,6 @@ import MessageHandler from '../../Handlers/MessageHandler'
 import BaseCommand from '../../lib/BaseCommand'
 import WAClient from '../../lib/WAClient'
 import { IParsedArgs, ISimplifiedMessage } from '../../typings'
-import yts from 'yt-search'
 import YT from '../../lib/YT'
 
 export default class Command extends BaseCommand {
